@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+<head>
+<title>시험용 로그라이크 게임</title>
+<meta charaset="utf-8">
+</head>
+<body>
+<img src="go.jpg" width="100%">
+<p>집에 들어가니 사람들이 있었고, 친절했다.</p>
+<p><a href="death.html">다음</a></p>
+소지품 [<a href="water.html" title="정말 밝다."><strong>손전등</strong></a>]
+</body>
+</html>
